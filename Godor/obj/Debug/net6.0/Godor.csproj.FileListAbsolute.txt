@@ -1,0 +1,16 @@
+C:\Users\beke.tamas\source\repos\Godor\Godor\bin\Debug\net6.0\Godor.exe
+C:\Users\beke.tamas\source\repos\Godor\Godor\bin\Debug\net6.0\melyseg.txt
+C:\Users\beke.tamas\source\repos\Godor\Godor\bin\Debug\net6.0\Godor.deps.json
+C:\Users\beke.tamas\source\repos\Godor\Godor\bin\Debug\net6.0\Godor.runtimeconfig.json
+C:\Users\beke.tamas\source\repos\Godor\Godor\bin\Debug\net6.0\Godor.dll
+C:\Users\beke.tamas\source\repos\Godor\Godor\bin\Debug\net6.0\Godor.pdb
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\Godor.csproj.AssemblyReference.cache
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\Godor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\Godor.AssemblyInfoInputs.cache
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\Godor.AssemblyInfo.cs
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\Godor.csproj.CoreCompileInputs.cache
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\Godor.dll
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\refint\Godor.dll
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\Godor.pdb
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\Godor.genruntimeconfig.cache
+C:\Users\beke.tamas\source\repos\Godor\Godor\obj\Debug\net6.0\ref\Godor.dll
